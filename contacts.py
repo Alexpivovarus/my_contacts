@@ -5,3 +5,4 @@ print(add_people())
 print(read_data_base())
 people = find_people()
 print(people)
+# проверка git
